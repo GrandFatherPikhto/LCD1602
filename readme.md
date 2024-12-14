@@ -24,20 +24,20 @@ LCD1602 &mdash;это малоресурсный буквенно-цифрово
         <th rowspan="2">Описание кода</th>
         <th rowspan="2">Цикл строба, f<sub>250 КГц</sub></th>
     </tr>
+    <tr>
+        <th style="writing-mode:vertical-rl;">RS</th>
+        <th style="writing-mode:vertical-rl;">RW</th>
+        <th style="writing-mode:vertical-rl;">DB7</th>
+        <th style="writing-mode:vertical-rl;">DB6</th>
+        <th style="writing-mode:vertical-rl;">DB5</th>
+        <th style="writing-mode:vertical-rl;">DB4</th>
+        <th style="writing-mode:vertical-rl;">DB3</th>
+        <th style="writing-mode:vertical-rl;">DB2</th>
+        <th style="writing-mode:vertical-rl;">DB1</th>
+        <th style="writing-mode:vertical-rl;">DB0</th>
+    </tr>
     </thead>
     <tbody>
-    <tr>
-        <th>RS</th>
-        <th>RW</th>
-        <th>DB7</th>
-        <th>DB6</th>
-        <th>DB5</th>
-        <th>DB4</th>
-        <th>DB3</th>
-        <th>DB2</th>
-        <th>DB1</th>
-        <th>DB0</th>
-    </tr>
     <tr>
         <td>Очистка экрана</td>
         <td>0</td>
